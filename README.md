@@ -2,8 +2,6 @@
 
 Welcome to my github - I'm Piotr, currently living in Gothenburg, Sweden, and working for AstraZeneca as a Data Scientist.
 
-There is not much, as I usually use internal bitbucket/github, but I guarantee there will be more!
-
 
 <!--
 **piotrkan/piotrkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
